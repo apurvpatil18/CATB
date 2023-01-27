@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-27T11:09:55 IST" name="Default suite" finished-at="2023-01-27T11:11:37 IST" duration-ms="102487">
+    <groups>
+    </groups>
+    <test started-at="2023-01-27T11:09:55 IST" name="Default test" finished-at="2023-01-27T11:11:37 IST" duration-ms="102487">
+      <class name="catb_fee.FeeProcess">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:09:55 IST" name="beforeSuite" finished-at="2023-01-27T11:09:55 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:09:55 IST" name="beforeMethod" finished-at="2023-01-27T11:09:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Admission_Tag_Master()[pri:1, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:09:55 IST" name="Admission_Tag_Master" finished-at="2023-01-27T11:10:01 IST" duration-ms="6222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admission_Tag_Master -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:01 IST" name="afterMethod" finished-at="2023-01-27T11:10:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:01 IST" name="beforeMethod" finished-at="2023-01-27T11:10:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CATB_Str_Definiation()[pri:2, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:01 IST" name="CATB_Str_Definiation" finished-at="2023-01-27T11:10:16 IST" duration-ms="14444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CATB_Str_Definiation -->
+        <test-method signature="Associate_Admission_Tag()[pri:3, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:16 IST" name="Associate_Admission_Tag" finished-at="2023-01-27T11:10:42 IST" duration-ms="26834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Associate_Admission_Tag -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:16 IST" name="afterMethod" finished-at="2023-01-27T11:10:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:16 IST" name="beforeMethod" finished-at="2023-01-27T11:10:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:42 IST" name="beforeMethod" finished-at="2023-01-27T11:10:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:42 IST" name="afterMethod" finished-at="2023-01-27T11:10:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="CATB_Billing()[pri:4, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:42 IST" name="CATB_Billing" finished-at="2023-01-27T11:10:58 IST" duration-ms="15836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CATB_Billing -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:58 IST" name="afterMethod" finished-at="2023-01-27T11:10:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="CATB_Revenue_Report()[pri:5, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:58 IST" name="CATB_Revenue_Report" finished-at="2023-01-27T11:11:37 IST" duration-ms="39115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CATB_Revenue_Report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:10:58 IST" name="beforeMethod" finished-at="2023-01-27T11:10:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:11:37 IST" name="afterMethod" finished-at="2023-01-27T11:11:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:catb_fee.FeeProcess@49912c99]" started-at="2023-01-27T11:11:37 IST" name="afterSuite" finished-at="2023-01-27T11:11:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- catb_fee.FeeProcess -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

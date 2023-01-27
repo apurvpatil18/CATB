@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="CAT B Process" >
+<test name="CAT B_1" > 
+       <classes> 
+          <class name="FeeProcess" />
+       </classes>
+   </test>
+
+ </suite>
